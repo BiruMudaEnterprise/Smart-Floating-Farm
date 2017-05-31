@@ -1,5 +1,3 @@
-
-
 /*
  * GSM           - 0 1
  * BUZZER        - 2
@@ -10,7 +8,6 @@
  * DS18B20       - 8
  * SERVO         - 9
  * RELAY MOTOR   - 10
- * 
  * LDR           - A0
  * LM35          - A1
  * BUTTON        - A2
@@ -18,10 +15,8 @@
  * RTC           - A4 A5
  * ADS1115       - A4 A5
  * LCD I2C       - A4 A5
- * WATER HEIGHT  - ADS0
  * SOIL MOISTURE - ADS1
  * TERMISTOR     - ADS2
  * VIBRATION     - ADS3
  * 
-
-*/
+ */
